@@ -8,7 +8,7 @@ public class CamController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        player = GameObject.Find("Sonic the Hedgehog");
+        player = GameObject.Find("Sonic");
     }
 
     // Update is called once per frame
